@@ -1,1 +1,1 @@
-# FurniturePlatform-Frontend-
+# BokraPlatform-Frontend-
